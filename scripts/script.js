@@ -40,6 +40,10 @@ var startMeUp = function(){
   showGlobals();
 }
 
+
+
+// Changes That Were Made Below:
+
 // Added '' around (added in someWordyThing) on line 28
 // Removed an "+" from line 13.  (Was like "++" now "+")
 // Add an "{" on line 9
